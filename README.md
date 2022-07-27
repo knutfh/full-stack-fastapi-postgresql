@@ -66,7 +66,7 @@ Go to the directory where you want to create your project and run:
 
 ```bash
 pip install cookiecutter
-cookiecutter https://github.com/tiangolo/full-stack-fastapi-postgresql
+cookiecutter [https://github.com/whythawk/full-stack-fastapi-postgresql](https://github.com/whythawk/full-stack-fastapi-postgresql)
 ```
 
 ### Generate passwords
